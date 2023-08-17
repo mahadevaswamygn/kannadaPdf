@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 8.2.0.final using JasperReports Library version 6.20.3-415f9428cffdb6805c6f85bbb29ebaf18813a2ab  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="SampleKannadaReport" language="groovy" pageWidth="595" pageHeight="842" whenNoDataType="AllSectionsNoDetail" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="30" bottomMargin="30" uuid="73e0af94-4e04-40b7-8eed-880f76092810">
+	<property name="net.sf.jasperreports.default.locale" value="kn_IN"/>
+	<queryString language="SQL">
+		<![CDATA[]]>
+	</queryString>
+	<title>
+		<band height="50">
+			<staticText>
+				<reportElement x="0" y="10" width="555" height="30" uuid="0d68904e-d55b-4a15-ac18-8b7bd2039f2f"/>
+				<textElement>
+					<font fontName="Arial Unicode MS" size="12" pdfFontName="Arial Unicode MS"/>
+				</textElement>
+				<text><![CDATA[ಕನ್ನಡ ಜಾಸ್ಪರ್ ಪಿಡಿಎಫ್ ಉದಾಹರಣೆ]]></text>
+			</staticText>
+		</band>
+	</title>
+</jasperReport>
